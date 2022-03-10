@@ -18,7 +18,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Rafaela Souza    
  ## Orientador 
 
-* Nome completo do professor 1
+* Carlos Alberto Pietrobon
 
 ## Instruções de utilização
 
