@@ -1,12 +1,12 @@
-# TÍTULO DO PROJETO
+# CRM AUTOMOTIVO
 
-`CURSO`
+ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
 
-`DISCIPLINA`
+PROJETO 2: DESENVOLVIMENTO DE APLICAÇÃO BACK-END
 
-`SEMESTRE`
+2022/1
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto consiste em um Sistema de Gerenciamento de Clientes (CRM - Customer Relationship Management), desenvolvido inteiramente pelo grupo ao longo de um semestre..
 
 ## Integrantes
 
