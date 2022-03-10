@@ -46,17 +46,28 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+| ID  | Descrição do Requisito | PRIORIDADE |  |  |
+|---|---|---|---|---|
+| RF-001|Incluir/Excluir/Alterar nome em uma tela de manutenção de funcionário e do cliente da oficina|  MÉDIA|  |  |
+|  RF-002|Geração de relatório de determinado perído de vendas| ALTA |  |  |
+|  RF-003| Efetuar pagamentos de compra através de crédito ou débito | ALTA |  |  |
+|RF-004   |Consulta e alterações de dados pessoais de clientes  | ALTA |  |  |
+|RF-005   |Emissão de relatórios de clientes ou vendas  | ALTA |  |  |
+|  RF-006 |Consulta de saldo ou estoque|  ALTA|  |  |
+|  RF-007 |Permitir que o usuário cadastre tarefas  |ALTA  |  |  |
+
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+| ID  | Descrição do Requisito | PRIORIDADE |  |  |
+|---|---|---|---|---|
+| RNF-001|Utilização do módulo de informações cadastrais em modo off-line|  MÉDIA|  |  |
+|  RNF-002|o sistema deve ter implementado na linguagem Java Script e C#| ALTA |  |  |
+|  RNF-003| O sistema deverá se comunicar com o banco SQL| ALTA |  |  |
+|RNF-004   |Um relatório de surpervisão deverá ser fornecido toda sexta-feira  | ALTA |  |  |
+|RNF-005   | O sistema deve ser responsivo para rodar em um dispositivos móvel | ALTA |  |  |
+|  RNF-006 |Deve processar requisições do usuário em no máximo 3s|  ALTA|  |  |
+|  RNF-007 | Emissão de relatório por usuário |MÉDIA|  |  |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
