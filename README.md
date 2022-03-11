@@ -1,12 +1,12 @@
-# CRM AUTOMOTIVO
+# CRM Auto
 
-ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
+`ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
-PROJETO 2: DESENVOLVIMENTO DE APLICAÇÃO BACK-END
+`PROJETO 2: DESENVOLVIMENTO DE APLICAÇÃO BACK-END`
 
-2022/1
+`2022/1`
 
-O projeto consiste em um Sistema de Gerenciamento de Clientes (CRM - Customer Relationship Management), desenvolvido inteiramente pelo grupo ao longo de um semestre..
+O projeto consiste em um Sistema de Gerenciamento de Clientes (CRM - _Customer Relationship Management_), desenvolvido inteiramente pelo grupo ao longo de um semestre.
 
 ## Integrantes
 
